@@ -16,7 +16,7 @@
       <div class="forms-container">
         <div class="signin-signup">
           <form action="ControladorUsuario" method="POST" class="sign-in-form">
-            <img src="assets/img/LaOllita_logo.png" class="image2" alt="" />
+            <img src="assets/img/dsaborcom.png" class="image2" alt="" />
 
             <h2 class="title">Ingresar</h2>
             <div class="input-field">
@@ -48,7 +48,7 @@
           </form>
 
           <form action="Controlador?menu=Usuarios" class="sign-up-form">
-            <img src="assets/img/LaOllita_logo.png" class="image2" alt="" />
+            <img src="assets/img/dsaborcom.png" class="image2" alt="" />
 
             <h2 class="title">Registro</h2>
             <div class="input-field">
