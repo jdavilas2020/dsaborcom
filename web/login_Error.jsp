@@ -1,8 +1,4 @@
-<%-- 
-    Document   : login
-    Created on : 06/10/2021, 11:38:17 AM
-    Author     : lmgue
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
